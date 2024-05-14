@@ -1,3 +1,5 @@
+Notes for coding
+
 1.) TestNG :- TestNG is a testing framework that is capable of making Selenium tests easier to understand and of generating reports that are easy to understand.
 
 TestNG is an automation testing framework in which NG stands for “Next Generation”. TestNG is inspired by JUnit which uses the annotations (@). TestNG overcomes the disadvantages of JUnit and is designed to make end-to-end testing easy.
